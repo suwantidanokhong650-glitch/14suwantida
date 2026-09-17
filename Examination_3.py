@@ -8,6 +8,8 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 price = float(input(100))
 is_member = int(input(1))
+
 if is_member = int(input(1))
+if is_member = int(input(0))
 eles :
       print ("ลดทันที 10%")
