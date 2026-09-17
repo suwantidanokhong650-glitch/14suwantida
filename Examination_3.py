@@ -6,5 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-price = float(input())
-is_member = int(input())
+price = float(input(100))
+is_member = int(input(1))
+if is_member = int(input(1))
+eles :
+      print ("ลดทันที 10%")
