@@ -6,5 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-pay = int(input())
-price = int(input())
+if pay= int(input(10))
+if price = int(input(5))
+if จำนวนเงินทอน = int(input(10-5) )
+eles :
+      print ("5")
