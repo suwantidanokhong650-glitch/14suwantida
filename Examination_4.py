@@ -6,12 +6,12 @@
 # ==========================================
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดน
-hour = int(input(ไม่เกิน 1 ชั่วโมง))
-      print ("0")
-eles :
+hour = int(input(1))
 if hour = int(input(ไม่เกิน 1 ชั่วโมง))
       print ("0")
 if ้่้้hour = int(input(2-4))
       print ("20")
 if hour = int(input(เกิน 4 ชั่วโมง))
       print ("50")
+eles :
+      print ("0")
